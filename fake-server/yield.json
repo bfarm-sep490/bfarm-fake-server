@@ -1,0 +1,32 @@
+[
+  {
+    "area": 2.5,
+    "area_unit": "ha",
+    "description": "Khu vực đất cát pha gần sông, phù hợp trồng cây ăn quả.",
+    "is_available": 1,
+    "size": "Trung bình",
+    "type": "Đất cát pha",
+    "yield_id": 1,
+    "yield_name": "Khu A"
+  },
+  {
+    "area": 1,
+    "area_unit": "ha",
+    "description": "Khu vực đất phù sa màu mỡ, thích hợp rau màu.",
+    "is_available": 1,
+    "size": "Nhỏ",
+    "type": "Đất phù sa",
+    "yield_id": 2,
+    "yield_name": "Khu B"
+  },
+  {
+    "area": 5,
+    "area_unit": "ha",
+    "description": "Khu vực đất sét, cần cải tạo trước khi trồng.",
+    "is_available": 0,
+    "size": "Lớn",
+    "type": "Đất sét",
+    "yield_id": 3,
+    "yield_name": "Khu C"
+  }
+]
